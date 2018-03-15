@@ -1,0 +1,14 @@
+void ZappMass(int *mass, int *row);
+void PrintMass(int *mass, int *row);
+void SortingMass(int *mass, int *row);
+void SummMass(int *mass1, int *mass2, int *mass3, int *row);
+void copyGeneralElements(int *mass1, int *mass2, int *mass3, int *row);
+void copyNoGeneralElements(int *mass1, int *mass2, int *mass3, int *row);
+void copyNoGeneralElements_2(int *mass1, int *mass2, int *mass3, int *row);
+void copyGeneralElements_2(int *mass1, int *mass2, int *mass3, int *row);
+int FalseTrue(int *a);
+int False_True2(int*a);
+void Sovershennoe_Number(int *start, int *end);
+char symbol(char *symvol);
+int max(int *mas, int *row);
+int bilet(int *bil);
